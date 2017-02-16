@@ -19,7 +19,7 @@ Then install globally :
 
 `cd minimizall`
 
-`sudo npm link ./minimizall`
+`sudo npm link .`
 
 ## Usage
 
