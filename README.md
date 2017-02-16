@@ -17,6 +17,8 @@ Clone repo :
 
 Then install globally :
 
+`cd minimizall`
+
 `sudo npm link ./minimizall`
 
 ## Usage
